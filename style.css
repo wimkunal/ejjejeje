@@ -1,0 +1,86 @@
+#header_id{
+    color:purple;
+    font-weight:bold;
+    font-family: 'Lobster', cursive; 
+    background-color:lightblue; 
+    width:500px;  
+    height:70px;
+    border:3px solid purple;
+ }
+ #study_image{
+     height:70px;
+     width:70px;
+ }
+ #case_study_1{
+     width: 900px;
+     height: 450px;
+     background-color: rgb(251, 255, 192);
+     padding: 30px;
+     border:5px solid white;
+     font-family: 'Dancing Script', cursive;
+     border-radius: 40px;
+     box-shadow:5px 5px 18px rgb(238, 127, 127);
+ 
+ }
+ .para_tags{
+     font-size:25px;
+     color: rgb(132, 0, 255);
+ }
+ .images{
+     border-radius:100px;
+     width:200px;
+     height: 200px;
+ }
+ #case_study_2{
+     width:900px;
+     height:450px;
+     background-color: rgb(251, 255, 192);
+     padding: 30px;
+     border:5px solid white;
+     font-family: 'Dancing Script', cursive;
+     border-radius: 40px;
+     box-shadow:5px 5px 18px rgb(238, 127, 127);
+ 
+ }
+ #case_study_3{
+     width:900px;
+     height:450px;
+     background-color: rgb(251, 255, 192);
+     padding: 30px;
+     border:5px solid white;
+     font-family: 'Dancing Script', cursive;
+     border-radius: 40px;
+     box-shadow:5px 5px 18px rgb(238, 127, 127);
+ 
+ }
+ #case_study_4{
+     width:900px;
+     height:450px;
+     background-color: rgb(251, 255, 192);
+     padding: 30px;
+     border:5px solid white;
+     font-family: 'Dancing Script', cursive;
+     border-radius: 40px;
+     box-shadow:5px 5px 18px rgb(238, 127, 127);
+ 
+ }
+ #case_study_5{
+     width:900px;
+     height:450px;
+     background-color: rgb(251, 255, 192);
+     padding: 30px;
+     border:5px solid white;
+     font-family: 'Dancing Script', cursive;
+     border-radius: 40px;
+     box-shadow:5px 5px 18px rgb(238, 127, 127);
+ 
+ }
+ .mobile_net_results{
+     color: rgb(255, 0, 140);
+     font-size:20px;
+     font-variant: small-caps;
+ 
+ }
+ body{
+    background-color: rgb(247, 215, 127)
+}
